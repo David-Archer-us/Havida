@@ -4,6 +4,8 @@
 
 ## This recommendation system will accept userID, title, and/or genre as inputs and recommend a book for the user.
 
-## All code is ready to run on the Jupyter Notebook with Python 3.9+.
+## recommendation_on_sampled_data.ipynb is ready to run on the Jupyter Notebook with Python 3.8+, required ram>128G gpu
+
+## 'Book recommendation system using surprise.ipynb' is used as a template with some bugs.
 
 ## Some major libraries used are pandas, surprise
