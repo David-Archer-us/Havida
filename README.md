@@ -1,4 +1,4 @@
-# Havida: Infinite Books
+# Havida: Millions of Books
 
 ## This is a term project for building a book recommendation system based on book ratings and user data. We use data from “Goodreads” on https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home, mainly goodreads_books.json.gz and goodreads_interactions.csv
 
